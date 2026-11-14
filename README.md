@@ -118,7 +118,7 @@ Exploring electrical engineering simulations and power systems using MATLAB.
 I'm always interested in learning, exploring new technologies and collaborating on innovative projects.
 
 - 💻 GitHub: https://github.com/arpitsaini0407-jpg
-- 💼 LinkedIn: Add your LinkedIn profile URL
+- 💼 LinkedIn: www.linkedin.com/in/arpit-kumar-saini-4a4297447
 
 ---
 
